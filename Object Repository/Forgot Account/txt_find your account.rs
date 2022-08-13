@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_find your account</name>
+   <tag></tag>
+   <elementGuidId>50a50b0d-cce3-4701-a86c-5efb0caf1329</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.uiHeaderTitle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='identify_yourself_flow']/div/div/div/div[2]/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>f1557e7d-257c-4da0-b229-aad67a457bac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>uiHeaderTitle</value>
+      <webElementGuid>a400d7dd-5d6d-4665-9760-21e563b16b09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6bde109f-6f3c-4b3b-9a74-773d8e37fe24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Find Your Account</value>
+      <webElementGuid>fdc345c4-2561-4664-8b84-8e7ead9304e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;identify_yourself_flow&quot;)/div[@class=&quot;mvl ptm uiInterstitial _9np_ uiInterstitialLarge uiBoxWhite&quot;]/div[@class=&quot;uiHeader uiHeaderBottomBorder mhl mts uiHeaderPage interstitialHeader&quot;]/div[@class=&quot;clearfix uiHeaderTop&quot;]/div[2]/h2[@class=&quot;uiHeaderTitle&quot;]</value>
+      <webElementGuid>3821ddc6-7984-45d8-81d0-c6db251ea82e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='identify_yourself_flow']/div/div/div/div[2]/h2</value>
+      <webElementGuid>2600f9de-9aec-4f45-b496-73c710641fa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find Your Account'])[1]/following::h2[1]</value>
+      <webElementGuid>b2cc603b-82a3-47d9-9f64-635b57bdf320</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgotten account?'])[1]/following::h2[2]</value>
+      <webElementGuid>daee5660-0abd-477d-80a7-630d93cc7021</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter your email address or mobile number to search for your account.'])[1]/preceding::h2[1]</value>
+      <webElementGuid>184f3832-f424-410c-b52c-0b214fd5faab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::h2[1]</value>
+      <webElementGuid>d3f3502d-712d-478a-b862-88262a7fb038</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/h2</value>
+      <webElementGuid>10ad3cb5-f2fe-4ad0-a538-d6c4ebd77e3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Find Your Account' or . = 'Find Your Account')]</value>
+      <webElementGuid>61ab5a89-8c37-474f-9a93-3c05536ce42f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

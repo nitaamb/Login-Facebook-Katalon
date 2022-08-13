@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_008 Unregistered Email_Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>829dd2eb-20c2-4567-b6f5-b7a41445dee6</testCaseGuid>
+</TestCaseEntity>
